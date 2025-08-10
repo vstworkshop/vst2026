@@ -56,6 +56,6 @@ Camera-ready version due:      January 20, 2026 AoE
 
 Program chairs:
 
-Martin Pinzger, University of Klagenfurt, Austria
 Christian Macho, University of Klagenfurt, Austria
+Martin Pinzger, University of Klagenfurt, Austria
 Rudolf Ramler, Software Competence Center Hagenberg, Austria
