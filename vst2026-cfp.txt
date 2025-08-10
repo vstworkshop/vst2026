@@ -1,0 +1,61 @@
+VST 2026
+
+9th International Workshop on 
+Validation, Analysis and Evolution of Software Tests
+
+March 17, 2026 – co-located with SANER 2026, Limassol, Cyprus
+https://vstworkshop.github.io/vst2026/
+
+*******************************************************************************
+
+Software projects accumulate large sets of test cases, encoding valuable expert 
+knowledge about the software under test to the extent of many person years. 
+Over time the reliability of the tests decreases, and they become difficult to 
+understand and maintain. Extra effort is required for repairing broken tests 
+and for adapting test suites and models to evolving software systems.
+
+The International Workshop on Validation, Analysis and Evolution of Software 
+Tests (VST) is a unique event bringing together academics, industrial 
+researchers, and practitioners for exchanging experiences, solutions and new 
+ideas in applying methods, techniques and tools from software analysis, 
+evolution and re-engineering to advance the state of the art in test 
+development and maintenance.
+
+Topics of interest include, but are not limited to:
+
+* Analysis and validation of test code, test data, and test models
+* Test execution monitoring, results analysis, and visualization
+* Fault detection and localization 
+* Co-evolution of tests and production code
+* Test case maintenance and automated repair
+* Clone detection for test code and data
+* Test generation and amplification
+* Test prioritization, minimization and simplification
+* Application of generative AI and LLMs in testing
+* Combinations of the topics above
+
+ 
+Submission:
+
+We encourage submission of papers on the topics mentioned above: Full papers (8 pages), 
+position papers and tool demonstration papers (2 to 4 pages).
+Papers must conform to the IEEE proceedings paper format guidelines and need to be 
+prepared for a full double-blind review process. If the paper is 
+accepted, at least one author must attend the workshop and present the paper. 
+
+Submission is done via EasyChair (https://easychair.org/conferences/?conf=vst2026).
+
+
+Important dates:
+
+Abstract submission deadline:  December 12, 2025 AoE
+Paper submission deadline:     December 18, 2025 AoE
+Notification of acceptance:    January 14, 2026 AoE
+Camera-ready version due:      January 20, 2026 AoE
+
+
+Program chairs:
+
+Martin Pinzger, University of Klagenfurt, Austria
+Christian Macho, University of Klagenfurt, Austria
+Rudolf Ramler, Software Competence Center Hagenberg, Austria
